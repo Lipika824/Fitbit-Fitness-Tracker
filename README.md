@@ -1,5 +1,5 @@
 ---
-# "Fitness tracker : Usage trends analysis using R and Tableau"
+# Fitness tracker : Usage trends analysis using R and Tableau
 ---
 ![](https://user-images.githubusercontent.com/85599628/163260574-cb07f9dc-c55f-47d7-8e1a-8d72af47337f.png)
 
