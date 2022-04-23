@@ -1,13 +1,5 @@
 ---
-title: "Fitness tracker : Usage trends analysis using R and Tableau"
-
-output:
-  html_document: 
-    toc: true
-    toc_depth: 4
-    toc_float : true 
-    number_sections : true
-    theme: flatly
+# "Fitness tracker : Usage trends analysis using R and Tableau"
 ---
 ![](https://user-images.githubusercontent.com/85599628/163260574-cb07f9dc-c55f-47d7-8e1a-8d72af47337f.png)
 
